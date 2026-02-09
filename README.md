@@ -1,6 +1,6 @@
-### 🚀 **WELCOME TO MY PROJECTS!** 🌟🔥💻
+### 🚀 **BIENVENIDO A MI PORTAFOLIO DIGITAL DEL PROFESOR DIEGO DE LA CRUZ!** 🌟🔥💻
 
-<h3 align="left">Backend Software Developer</h3>
+<h3 align="left">PORTAFOLIO DIGITAL DE PROYECTOS EDUCATIVOS</h3>
 
 Backend engineer with 3+ years of experience building and maintaining production-ready backend services and APIs. I mainly work with Java (Spring Boot) and Python (FastAPI), focusing on clean architecture, performance, and maintainability.
 
