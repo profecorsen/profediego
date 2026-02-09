@@ -40,9 +40,14 @@ El objetivo de este portafolio digital es mostrar la amplia gama de competencias
 ## 📺 Some of my Youtube Channel Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
-<a href="https://www.youtube.com/watch?v=3RKWGMjbJR4">
-  <img src="https://ytcards.demolab.com/?id=3RKWGMjbJR4&title=Desarrollando+una+API+REST+con+Spring+Boot&lang=es&timestamp=1751899205&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1283" 
-       alt="Desarrollando un pseint con Spring Boot">
-</a>
-
+<iframe 
+  width="560" 
+  height="315" 
+  src="https://www.youtube.com/embed/3RKWGMjbJR4" 
+  title="YouTube video player" 
+  frameborder="0" 
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+  referrerpolicy="strict-origin-when-cross-origin" 
+  allowfullscreen>
+</iframe>
 <!-- END YOUTUBE-CARDS --
