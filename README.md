@@ -40,7 +40,10 @@ El objetivo de este portafolio digital es mostrar la amplia gama de competencias
 ## 📺 Some of my Youtube Channel Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
-[![Desarrollando un pseint con Spring Boot](https://ytcards.demolab.com/?id=3RKWGMjbJR4&title=Desarrollando+una+API+REST+con+Spring+Boot&lang=es&timestamp=1751899205&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1283 "Desarrollando una API REST con Spring Boot")](https://www.youtube.com/watch?v=3RKWGMjbJR4)
+<a href="https://www.youtube.com/watch?v=3RKWGMjbJR4">
+  <img src="https://ytcards.demolab.com/?id=3RKWGMjbJR4&title=Desarrollando+una+API+REST+con+Spring+Boot&lang=es&timestamp=1751899205&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1283" 
+       alt="Desarrollando un pseint con Spring Boot">
+</a>
 [![Desarrollo Web con Angular y Spring Boot](https://ytcards.demolab.com/?id=_0lhVKp4VZs&title=Desarrollo+Web+con+Angular+y+Spring+Boot&lang=es&timestamp=1750868400&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=851 "Desarrollo Web con Angular y Spring Boot")](https://youtu.be/_0lhVKp4VZs?si=VJ9oJGxN3WJx1d5T)
 [![Microservicios con Spring Cloud](https://ytcards.demolab.com/?id=OmAhz54UuFo&title=Microservicios+con+Spring+Cloud&lang=es&timestamp=1750462931&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=41 "Microservicios con Spring Cloud")](https://youtu.be/OmAhz54UuFo?si=bnradVLPVDjj5BZc)
 [![Autenticación JWT con Spring Security](https://ytcards.demolab.com/?id=UEzArbU7q7o&title=Autenticación+JWT+con+Spring+Security&lang=es&timestamp=1749850211&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=902 "Autenticación JWT con Spring Security")](https://youtu.be/UEzArbU7q7o?si=mi4AoMC_NKEMU3NN)
