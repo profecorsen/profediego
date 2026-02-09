@@ -8,7 +8,7 @@ El objetivo de este portafolio digital es mostrar la amplia gama de competencias
   <a href="https://www.youtube.com/@diegodelacruz3257">
    <img src="https://komarev.com/ghpvc/?username=Carlos-Marrugo" alt="Visitas al perfil" />
   </a>
-  <a href="https://github.com/Carlos-Marrugo?tab=followers">
+  <a href="https://github.com/profecorsen/profediego/blob/main/README.md">
     <img alt="GitHub seguidores" src="https://img.shields.io/github/followers/Carlos-Marrugo?style=flat&logo=github">
   </a>
 </p>
