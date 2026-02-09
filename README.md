@@ -5,7 +5,7 @@
 El objetivo de este portafolio digital es mostrar la amplia gama de competencias y experiencia profesional del Profesor Diego de la Cruz en el desarrollo de servicios educativos. Con más de diez años de experiencia de proyectos educativos en la creación y mantenimiento de arquitecturas robustas y escalables, me especializo en tecnologías avanzadas como C++ y Python  implementando prácticas de desarrollo ágil y limpio. 
 
 <p align="left">
-  <a href="https://github.com/Carlos-Marrugo">
+  <a href="https://youtu.be/TzMUrv-E3HI?si=eNrA81Crsucy2BwQ">
     <img src="https://komarev.com/ghpvc/?username=Carlos-Marrugo" alt="Visitas al perfil" />
   </a>
   <a href="https://github.com/Carlos-Marrugo?tab=followers">
