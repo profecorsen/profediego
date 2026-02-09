@@ -2,12 +2,7 @@
 
 <h3 align="left">PORTAFOLIO DIGITAL DE PROYECTOS EDUCATIVOS</h3>
 
-Backend engineer with 3+ years of experience building and maintaining production-ready backend services and APIs. I mainly work with Java (Spring Boot) and Python (FastAPI), focusing on clean architecture, performance, and maintainability.
-
-I’ve built cloud-oriented backend systems using asynchronous processing, Docker, and well-structured databases such as PostgreSQL, MySQL, and MongoDB. I have hands-on experience implementing JWT-based authentication and role-based access control for secure APIs.
-
-While backend is my core focus, I’ve also collaborated with frontend applications using Angular, React, and Next.js, integrating APIs and third-party services to deliver reliable end-to-end solutions.
-
+El objetivo de este portafolio digital es mostrar la amplia gama de competencias y experiencia profesional del Profesor Diego de la Cruz en el desarrollo de servicios backend. Con más de tres años de experiencia en la creación y mantenimiento de arquitecturas robustas y escalables, me especializo en tecnologías avanzadas como Java (Spring Boot) y Python (FastAPI), implementando prácticas de desarrollo ágil y limpio. 
 
 <p align="left">
   <a href="https://github.com/Carlos-Marrugo">
