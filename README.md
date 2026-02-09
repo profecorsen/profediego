@@ -2,7 +2,7 @@
 
 <h3 align="left">PORTAFOLIO DIGITAL DE PROYECTOS EDUCATIVOS</h3>
 
-El objetivo de este portafolio digital es mostrar la amplia gama de competencias y experiencia profesional del Profesor Diego de la Cruz en el desarrollo de servicios backend. Con más de tres años de experiencia en la creación y mantenimiento de arquitecturas robustas y escalables, me especializo en tecnologías avanzadas como Java (Spring Boot) y Python (FastAPI), implementando prácticas de desarrollo ágil y limpio. 
+El objetivo de este portafolio digital es mostrar la amplia gama de competencias y experiencia profesional del Profesor Diego de la Cruz en el desarrollo de servicios educativos. Con más de diez años de experiencia de proyectos educativos en la creación y mantenimiento de arquitecturas robustas y escalables, me especializo en tecnologías avanzadas como C++ y Python  implementando prácticas de desarrollo ágil y limpio. 
 
 <p align="left">
   <a href="https://github.com/Carlos-Marrugo">
